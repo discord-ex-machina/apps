@@ -3,4 +3,4 @@
 
 ## [BingoBingo](BingoBingo) ##
 ## [Checkmate Royale](CheckmateRoyale) ##
-## [What To Play...](BingoBingo) ##
+## [What To Play...](WhatToPlay) ##
